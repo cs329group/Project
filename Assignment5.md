@@ -3,7 +3,7 @@
 - Mason Berhenke
 - Kyle Long
 
-## Online booking system for flights, hotels, vacation packages, car rentals, etc.
+## Online Booking System
 - Expedia
 
 ## Project’s Website
