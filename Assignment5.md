@@ -43,3 +43,6 @@ of the holiday. Times were adjusted accordingly for the exception.
 
 ![PDM](https://raw.githubusercontent.com/cs329group/Project/master/PDM.PNG)
 
+##Microsoft Project
+In our repository is also our Microsoft Project file we've been using. Feel free to look it over.
+-[Microsoft Project](https://github.com/cs329group/Project/blob/master/CONE329Project.mpp?raw=true)
