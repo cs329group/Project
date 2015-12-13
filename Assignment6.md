@@ -28,36 +28,38 @@ In this homework, I assume that your final project is part of a senior design co
 
 
 ###2. Dependence and Influence
-|  Accommodate |      Work with |  
-|---|---|
-|   |   | 
-|   |   |   
-|   **Work Around** |   **Ignore** | 
-|   |   |   
-|   |   |   
+|  Accommodate              |      Work with          |  
+|---                        |---                      |
+| Industrial Review Board   | Faculty Member (Advice) | 
+| Sponsor                   | Team Members            | 
+|                           | Client                  | 
+| **Work Around**           | **Ignore**              | 
+| Factulty Member (Grading) | Managers of Hotels      | 
+| Testers from Bank         |                         | 
 
 ###3. Relationship
-| Name  | Interest  | Agreement  | Support |  Overall Support | Integrity  |  Trust | Influence  |  Relationship Quality |
-|---|---|---|---|---|---|---|---|---|
-| Client |   |   |   |   |   |   |   |   |
-| Sponsor  |   |   |   |   |   |   |   |   |
-| Faculty Member (Advice) |   |   |   |   |   |   |   |   |
-| Industrial Review Board |   |   |   |   |   |   |   |   |
-| Team Members |   |   |   |   |   |   |   |   |
-| Managers of Hotels|   |   |   |   |   |   |   |   |
-| Testers from Bank |   |   |   |   |   |   |   |   |
-| Faculty Member (Grading) |   |   |   |   |   |   |   |   |
+| Name                    |Interest |Agreement|Support|Overall Support|Integrity|Trust|Influence|Relationship Quality |
+|---                      |---      |---      |---    |---            |---      |---  |---      |---                  |
+| Client                  |   10    |   10    |  10   |       30      |   75    | 90  |   90    |         255         |
+| Sponsor                 |   8     |   10    |  10   |       28      |   80    | 100 |   100   |         280         |
+| Faculty Member (Advice) |   6     |   4     |  6    |       16      |   100   | 100 |   75    |         275         |
+| Industrial Review Board |   2     |   3     |  3    |       8       |   70    | 50  |   70    |         190         |
+| Team Members            |   9     |   10    |  10   |       29      |   60    | 80  |   70    |         210         |
+| Managers of Hotels      |   6     |   3     |  4    |       13      |   20    | 25  |   40    |         85          |
+| Testers from Bank       |   4     |   2     |  1    |       7       |   10    | 10  |   30    |         50          |
+| Faculty Member (Grading)|   4     |   2     |  2    |       8       |   80    | 60  |   70    |         190         |
 
 ###4. Support Level
-|  Yes Man |      Allies |  
-|---|---|
-|   |   | 
-|   |   |  
-|   **Fence Sitters** |   | 
-|   |   |  
-|   **Adversaries** |   **Challengers** | 
-|   |   |   
-|   |   |  
+|  Yes Man                      |       Allies                      |  
+|---                            |---                                |
+|                               | Client (30,255)                   |   
+|                               | Sponsor (28,280)                  |   
+|                               | Team Members (29,210)             |    
+| **Fence Sitters**             |                                   | 
+| Managers of Hotels (13,85)    | Faculty Members (Advice) (16,275) |  
+| **Adversaries**               |   **Challengers**                 | 
+| Industry Review Board (8,190) |                                   |
+| Testers from Bank (7,50)      | Factulty Member (Grading) (8,190) |
 
 ###5. Method of communication
 | Name  | Functions  |  Interests | Email/Phone |  Ally? |  Common Frequency | Last Communication  |
