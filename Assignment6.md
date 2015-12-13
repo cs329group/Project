@@ -15,16 +15,24 @@ In this homework, I assume that your final project is part of a senior design co
 
 ## Communication Tables and Charts
 ###1. Important stakeholders and their power
-| Name  | Resources  |  Guidance | Network |  Dependence upon Stakeholders |  Their Power | Your Power  |
-|---|---|---|---|---|---|---|
-| Client  |   |   |   |   |   |   |
-| Sponsor  |   |   |   |   |   |   |
-| Faculty Member (Advice)  |   |   |   |   |   |   |
-| Industrial Review Board |   |   |   |   |   |   |
-| Team Members  |   |   |   |   |   |   |
-| Managers of Hotels  |   |   |   |   |   |   |
-| Testers from Bank  |   |   |   |   |   |   |
-| Faculty Member (Grading)  |   |   |   |   |   |   |
+| Name                      | Resources   |  Guidance | Network |  Dependence upon Stakeholders |  Their Power  | Your Power  | Your Power  |
+|---                        |---          |---        |---      |---                            |---            |---          |
+---          |
+| Client                    |     6       |     6     |    4    |               16              |       60      |     80      |
+20          |
+| Sponsor                   |     10      |     7     |    8    |               25              |       80      |     50      |
+20          |
+| Faculty Member (Advice)   |     5       |     9     |    6    |               20              |       40      |     50      |
+20          |
+| Industrial Review Board   |     4       |     6     |    8    |               18              |       70      |     40      |
+20          |
+| Team Members              |     7       |     6     |    3    |               16              |       80      |     80      |
+20          |
+| Managers of Hotels        |     2       |     5     |    8    |               15              |       10      |     60      |
+| Testers from Bank         |     1       |     3     |    1    |               5               |       60      |     20      |
+20          |
+| Faculty Member (Grading)  |     3       |     4     |    2    |               9               |       90      |     30      |
+20          |
 
 
 ###2. Dependence and Influence
