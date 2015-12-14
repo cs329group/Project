@@ -11,7 +11,7 @@ You can view assignments by looking at the corresponding markdown file on our re
 - [Assignment 6](https://github.com/cs329group/Project/blob/master/Assignment6.md)
 - [Assignment 7](https://github.com/cs329group/Project/blob/master/Assignment7.md)
 
-##Current Status (Updated 12/9)
-- Brainstorming GUI Windows
-- Starting communication plan
+##Current Status (Updated 12/13/15)
+- Mocking GUI Windows
+- Completed communication plan
 - Analyzing risks
