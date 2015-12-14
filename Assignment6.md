@@ -62,13 +62,13 @@ In this homework, I assume that your final project is part of a senior design co
 | Testers from Bank (7,50)      | Factulty Member (Grading) (8,190) |
 
 ###5. Method of communication
-| Name  | Functions  |  Interests | Email/Phone |  Ally? |  Common Frequency | Last Communication  |
-|---|---|---|---|---|---|---|
-| Client  |   |   |   |   |   |   |
-| Sponsor  |   |   |   |   |   |   |
-| Faculty Member (Advice)  |   |   |   |   |   |   |
-| Industrial Review Board |   |   |   |   |   |   |
-| Team Members  |   |   |   |   |   |   |
-| Managers of Hotels  |   |   |   |   |   |   |
-| Testers from Bank  |   |   |   |   |   |   |
-| Faculty Member (Grading)  |   |   |   |   |   |   |
+| Name                    | Interests | Email/Phone | Ally? | Common Frequency  | Last Communication                  |
+|---                      |---                                                      |---  |--- |---        |---       |
+| Client                  | Completing the required online booking service.         | NA  | Yes| Weekly    | 12/10/15 |
+| Sponsor                 | Return on investment, for the online booking service.   | NA  | Yes| Bi-Weekly | 12/03/15 |
+| Faculty Member (Advice) | To provide useful and inciteful help to students.       | NA  | Yes| Bi-weekly | 12/14/15 |
+| Industrial Review Board | Review and critique final presentation.                 | NA  | No | Infrequent| 12/17/15 |
+| Team Members            | To work together to complete the online booking system. | NA  | Yes| Daily     | 12/17/15 |
+| Managers of Hotels      | To implement the booking service at their hotel.        | NA  | No | Monthly   | 11/30/15 |
+| Testers from Bank       | To test and provide feedback for the team members.      | NA  | No | Monthly   | 11/30/15 |
+| Faculty Member (Grading)| Review, critique, and grade the final presentation.     | NA  | No | Once      | 12/17/15 |
