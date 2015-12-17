@@ -1,8 +1,15 @@
 #Project
+## Scope
+Develop the web travel platform Expedia
+- Plan a work breakdown chart or PDM
+- Create communication plans with stakeholders
+- Analyze the project’s risk
+- Create UI mockups
+
 ## Team
-- Matt McKillip
-- Kyle Long
-- Mason Berhenke
+- Kyle Long - Team Lead
+- Matt McKillip - Communication Lead
+- Mason Berhenke - Web Master
 
 ##Assignments
 You can view assignments by looking at the corresponding markdown file on our repository.
